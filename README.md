@@ -1,7 +1,7 @@
-# This repository consist of cartpole balancing problem using value iteration rienforcement learning.
+# This repository consist of cartpole balancing problem using value iteration reinforcement learning.
 
 ## env.py consist of code to simulate the physics of the cart pole and discretize the states.
 
-## cartpole.py consist of code to perform the value iteration rienforcement learning
+## cartpole.py consist of code to perform the value iteration reinforcement learning
 
-![Demo](https://github.com/tejasbg004/Cartpole_Balancing-Rienforcement-learning-Value_iteration/blob/main/cartpole_converged.gif)
+![Demo](https://github.com/tejasbg004/Cartpole_Balancing-Reinforcement-learning-Value_iteration/blob/main/cartpole_converged.gif)
